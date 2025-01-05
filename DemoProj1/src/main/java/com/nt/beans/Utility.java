@@ -14,6 +14,10 @@ public class Utility {
 		System.out.println("abc12345");
 	}
 	
+	public void m4() {
+		System.out.println("Utility.m4()");
+	}
+	
 	public void m2() {
 		System.out.println("Utility.m2()");
 	}
